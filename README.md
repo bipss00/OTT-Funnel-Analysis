@@ -73,6 +73,4 @@ OTT-Funnel-Analysis/
 
 ## 👤 Author
 
-**Om Suryawanshi** — Data Analyst
-
-GitHub: [https://github.com/Om200327](https://github.com/Om200327)
+****Bipin Chauhan ** — Business Analyst**
